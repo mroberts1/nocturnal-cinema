@@ -22,6 +22,7 @@ format:
     smooth-scroll: true
     linkcolor: "#235440"
     link-external-newwindow: true
+  PrettyPDF-pdf: default
 lightbox: 
   match: auto
 fig-responsive: true
