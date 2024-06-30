@@ -1,0 +1,34 @@
+project:
+  type: 
+    website
+  
+format:
+  html: 
+    toc: false
+    toc-depth: 3
+    toc-location: right
+    toc-title: '   '
+    theme: 
+      light: ember.scss
+      dark: [ember.scss, slate]
+    css: custom.scss
+    self-contained: false
+    grid: 
+      sidebar-width: 400px
+      body-width: 600px
+      margin-width: 300px
+      gutter-width: 2em
+    linestretch: 1.5
+    smooth-scroll: true
+    linkcolor: "#235440"
+    link-external-newwindow: true
+lightbox: 
+  match: auto
+fig-responsive: true
+image-alt: " "
+execute:
+  freeze: auto
+footnotes-hover: true
+bibliography: https://api.citedrive.com/bib/aa54ee25-d1a4-4838-8eb0-848e54d75b38/references.bib?x=eyJpZCI6ICJhYTU0ZWUyNS1kMWE0LTQ4MzgtOGViMC04NDhlNTRkNzViMzgiLCAidXNlciI6ICIxMTkxMiIsICJzaWduYXR1cmUiOiAiNTY3MDIxZDJkYzBkMTM3ZTUxODFlOTVkN2Q4ZDk3ZDk3Mzk2ODM3YzQ2MWJiMDhhYWFhYWJkZjRjOTk5YWQxZSJ9
+reference-location: document
+citation-location: document
