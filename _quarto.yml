@@ -12,11 +12,11 @@ format:
       light: ember.scss
       dark: [ember.scss, slate]
     css: custom.scss
-    self-contained: false
+    self-contained: true
     grid: 
-      sidebar-width: 400px
+      sidebar-width: 350px
       body-width: 600px
-      margin-width: 300px
+      margin-width: 350px
       gutter-width: 2em
     linestretch: 1.5
     smooth-scroll: true
