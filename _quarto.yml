@@ -4,7 +4,7 @@ project:
   
 format:
   html: 
-    backgroundcolor: "#FAEBD7"
+    backgroundcolor: "#EFEDE5"
     toc: false
     toc-depth: 3
     toc-location: right
