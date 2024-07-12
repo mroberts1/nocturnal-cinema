@@ -37,6 +37,10 @@
   --quarto-font-monospace: "Overpass Mono", "Roboto Mono", "IBM Plex Mono", monospace, monospace;
 }
 
+:root {
+  --quarto-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
 code span.al {
   background-color: #2a0f15;
   font-weight: bold;
