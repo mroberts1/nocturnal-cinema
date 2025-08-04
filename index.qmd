@@ -1,26 +1,22 @@
 ---
-title: "    "
+title: "Nocturnal Cinema"
+subtitle: "Film Noir, Jazz & The French New Wave"
 ---
-
-# Nocturnal Cinema
-
-## Film Noir, Jazz & The French New Wave
 
 ::: {.column-margin}
 
-<br /><br /><br />[Martin Roberts](https://mroberts.emerson.build/)\      
+<br><br><br>
+<small>This paper was originally presented under the title “Nocturnal Cinema: Film Noir, Jazz, and the French New Wave” at the [Media & The Night Conference](https://theurbannight.files.wordpress.com/2022/03/book-of-abstracts.pdf) conference, McGill University, 18-19 March 2022. Updated 20 July 2024.</small><br>
+
+[Martin Roberts](https://mroberts.emerson.build/)\      
 [Department of Visual & Media Arts](https://emerson.edu/academics/academic-departments/visual-media-arts)\
 [Emerson College](https://emerson.edu)\
-[Media & The Night Conference](https://theurbannight.files.wordpress.com/2022/03/book-of-abstracts.pdf)\
-McGill University\
-18-19 March 2022  
-<br />[{{< fa regular envelope >}}](mailto:martin*roberts@emerson.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@mroberts*vma) \| [{{< fa brands github >}}](https://github.com/mroberts1/) \| [{{< fa brands facebook >}}](https://facebook.com/mr05301) \| [{{< fa brands twitter >}}](https://twitter.com/dokoissho)
+<br>
+[{{< fa regular envelope >}}](mailto:martin*roberts@emerson.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@mroberts*vma) \| [{{< fa brands github >}}](https://github.com/mroberts1/) \| [{{< fa brands facebook >}}](https://facebook.com/mr05301) \| [{{< fa brands twitter >}}](https://twitter.com/dokoissho)
 
 :::
 
-![*Ascenseur pour l'échafaud* (Louis Malle, 1958)](img/ascenseur.jpg){.lightbox}
-
-***
+![](img/ascenseur.jpg){.lightbox description="Jeanne Moreau in *Ascenseur pour l'échafaud* (Louis Malle, 1958)"}
 
 > Le cinéma s’est approprié la nuit pour la réinventer et, depuis, notre perception n’est plus la même. 
 [<small>Cinema appropriated night in order to reinvent it, and our perception of it has never been the same since. It's hard to look at Shanghai or New York without thinking about *Blade Runner*. The pleasures of nocturnal *flâneurs*; the night of crooks, dealers, and down-and-outs; the night of dreams or the everyday night of workers... By its magic, the seventh art has taken hold of the night in order to turn it into a character in its own right. \[All translations mine. \]</small>]{.aside}Difficile de contempler Shanghai ou New York sans penser à *Blade Runner*. Plaisirs de noctambules, nuit des truands, des dealers et des paumés, nuit de rêve ou quotidien des travailleurs nocturnes… , par sa magie, le septième art s’est emparé de la nuit pour en faire un personnage à part entière.

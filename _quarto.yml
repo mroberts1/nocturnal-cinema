@@ -13,7 +13,7 @@ format:
       light: ember.scss
       dark: darkly
     css: custom.scss
-    self-contained: true
+    self-contained: false
     grid: 
       sidebar-width: 350px
       body-width: 600px
