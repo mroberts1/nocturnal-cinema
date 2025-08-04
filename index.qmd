@@ -6,12 +6,11 @@ subtitle: "Film Noir, Jazz & The French New Wave"
 ::: {.column-margin}
 
 <br><br><br>
-<small>This paper was originally presented under the title “Nocturnal Cinema: Film Noir, Jazz, and the French New Wave” at the [Media & The Night Conference](https://theurbannight.files.wordpress.com/2022/03/book-of-abstracts.pdf) conference, McGill University, 18-19 March 2022. Updated 20 July 2024.</small><br>
-
-[Martin Roberts](https://mroberts.emerson.build/)\      
+<small>This paper was originally presented under the title “Nocturnal Cinema: Film Noir, Jazz, and the French New Wave” at the [Media & The Night Conference](https://theurbannight.files.wordpress.com/2022/03/book-of-abstracts.pdf) conference, McGill University, 18-19 March 2022. Updated 20 July 2024.</small><br><br>
+<br><br><br>
+<small>[Martin Roberts](https://mroberts.emerson.build/)\      
 [Department of Visual & Media Arts](https://emerson.edu/academics/academic-departments/visual-media-arts)\
-[Emerson College](https://emerson.edu)\
-<br>
+[Emerson College](https://emerson.edu)</small>\
 [{{< fa regular envelope >}}](mailto:martin*roberts@emerson.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@mroberts*vma) \| [{{< fa brands github >}}](https://github.com/mroberts1/) \| [{{< fa brands facebook >}}](https://facebook.com/mr05301) \| [{{< fa brands twitter >}}](https://twitter.com/dokoissho)
 
 :::
